@@ -1,2 +1,2 @@
 Hello
-This is git-branch01 - conflict test
+This is git-branch01 - conflict 
