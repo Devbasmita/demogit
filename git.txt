@@ -1,2 +1,2 @@
 Hello
-This is git-branch01 for conflict
+This is git-branch01 for conflict in master
